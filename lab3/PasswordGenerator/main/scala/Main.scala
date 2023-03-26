@@ -1,7 +1,6 @@
 import utils._
 object Main {
   private def readFile(inFileName: String, outFileName: String): Unit = try {
-
     println("Opening the file...")
     val inFile = scala.io.Source.fromFile(inFileName)
     val outFile = new java.io.PrintWriter(outFileName)
