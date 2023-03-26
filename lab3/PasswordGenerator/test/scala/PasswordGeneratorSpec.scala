@@ -10,7 +10,4 @@ class PasswordGeneratorSpec extends AnyFlatSpec {
     val password = PasswordGenerator.nextPassword(10)
     assert(password.forall(c => PasswordGenerator.allowedChars.contains(c)))
   }
-
-
-
 }
