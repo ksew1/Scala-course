@@ -1,6 +1,6 @@
 # My Scala Course Repository for AGH UST 📚
 
-Hey there! Welcome to my personal GitHub repository for the Scala course at AGH UST 🚀. Here I keep all the materials related to the course, including lecture slides, code samples, and my assignments.
+Hey there! Welcome to my personal GitHub repository for the Scala course at AGH UST 🚀. Here I keep all the materials related to the course.
 
 ## Repository Structure 📁
 
